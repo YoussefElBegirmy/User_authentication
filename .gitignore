@@ -154,3 +154,6 @@ cython_debug/
 *.pyc
 *.db
 *.db-journal
+*.env
+venv/
+__pycache__/

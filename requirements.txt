@@ -5,3 +5,4 @@ pydantic
 passlib[bcrypt]
 python-jose[cryptography]
 python-dotenv  # Add this line
+fastapi[standard]
